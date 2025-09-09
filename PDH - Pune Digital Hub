@@ -57,6 +57,21 @@
             color: #0078d4;
             font-weight: bold;
         }
+/* Default: hide description on mobile */
+@media (max-width: 768px) {
+    .app-description {
+        display: none;
+    }
+
+    .app-card:hover .app-description {
+        display: block;
+        background-color: #f0f0f0;
+        padding: 10px;
+        border-radius: 5px;
+        margin-top: 10px;
+    }
+}
+
     </style>
 </head>
 <body>
