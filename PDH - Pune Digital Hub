@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
-<title>PDH - Pune Digital Hub</title>
+<title>Pune Digital Hub - PDH</title>
 <style>
         body {
             font-family: 'Segoe UI', sans-serif;
@@ -77,7 +77,7 @@
 <body>
 <header>
     <!-- <img src="./Assets/OIP.webp" alt="Logo" width="200" height="100"> -->
-<h1>PDH - Pune Digital Hub</h1>
+<h1>Pune Digital Hub - PDH</h1>
 <p>Building a Smarter Tomorrow — One Digital Solution at a Time.</p>
 </header>
 <div class="intro">
